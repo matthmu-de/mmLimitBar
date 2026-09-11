@@ -25,6 +25,6 @@ Das Widget fügst du mit einem Rechtsklick auf den Schreibtisch hinzu: „Widget
 
 ---
 
-© 2026 Matthias Müller – [www.matthmu.de](https://www.matthmu.de)
+© 2026 Matthias Müller – Softwareentwicklung · [www.mm-softwareentwicklung.de](https://www.mm-softwareentwicklung.de)
 
 Alle genannten Produkt- und Firmennamen sind Marken ihrer jeweiligen Inhaber. mmLimitBar ist mit keinem der Anbieter verbunden.
