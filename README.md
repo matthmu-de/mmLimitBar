@@ -1,6 +1,6 @@
 # mmLimitBar
 
-Zeigt die Nutzungslimits deiner Claude- und ChatGPT-Pläne direkt in der macOS-Menüleiste.
+Zeigt die Nutzungslimits deiner KI-Dienste direkt in der macOS-Menüleiste – und auf Wunsch als Widget auf dem Schreibtisch.
 
 ## Download und Installation
 
@@ -10,14 +10,21 @@ Zeigt die Nutzungslimits deiner Claude- und ChatGPT-Pläne direkt in der macOS-M
 
 Danach aktualisiert sich mmLimitBar selbst: Die App sucht täglich nach neuen Versionen und installiert sie nach Bestätigung (Einstellungen › „Nach Updates suchen …“).
 
+Das Widget fügst du mit einem Rechtsklick auf den Schreibtisch hinzu: „Widgets bearbeiten …“ › mmLimitBar.
+
+## Unterstützte Dienste
+
+- **Claude:** Anmeldung bei claude.ai direkt in der App – oder ein eingerichtetes Claude Code
+- **ChatGPT:** installierte und angemeldete ChatGPT-App
+- **DeepSeek, Kimi, Poe, OpenRouter:** eigener API-Schlüssel des Dienstes (wird im Schlüsselbund gespeichert)
+- **JetBrains AI:** installierte JetBrains-IDE mit AI Assistant, keine Anmeldung nötig
+
 ## Voraussetzungen
 
 - macOS 14 (Sonoma) oder neuer, Mac mit Apple-Chip oder Intel
-- Claude: Anmeldung bei claude.ai direkt in der App – oder ein eingerichtetes Claude Code
-- ChatGPT: installierte und angemeldete ChatGPT-App
 
 ---
 
 © 2026 Matthias Müller – [www.matthmu.de](https://www.matthmu.de)
 
-Claude ist eine Marke von Anthropic, ChatGPT eine Marke von OpenAI. mmLimitBar ist mit keinem der Anbieter verbunden.
+Alle genannten Produkt- und Firmennamen sind Marken ihrer jeweiligen Inhaber. mmLimitBar ist mit keinem der Anbieter verbunden.
